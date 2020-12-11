@@ -1,7 +1,7 @@
 Package: jomo
 Type: Package
 Title: Multilevel Joint Modelling Multiple Imputation
-Version: 2.7-1
+Version: 2.7-2
 Date: 2020-08-12
 Author: Matteo Quartagno, James Carpenter
 Maintainer: Matteo Quartagno <m.quartagno@ucl.ac.uk>
