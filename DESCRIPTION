@@ -1,8 +1,8 @@
 Package: jomo
 Type: Package
 Title: Multilevel Joint Modelling Multiple Imputation
-Version: 2.7-3
-Date: 2022-08-02
+Version: 2.7-4
+Date: 2022-15-09
 Author: Matteo Quartagno, James Carpenter
 Maintainer: Matteo Quartagno <m.quartagno@ucl.ac.uk>
 Description: Similarly to Schafer's package 'pan', 'jomo' is a package for multilevel joint modelling multiple imputation (Carpenter and Kenward, 2013) <doi:10.1002/9781119942283>.
